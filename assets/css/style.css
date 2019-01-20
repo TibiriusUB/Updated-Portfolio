@@ -26,3 +26,7 @@ body {
 .mb-2 {
     margin-bottom: 3px
 }
+
+#footer {
+    background-color: #666666
+}
