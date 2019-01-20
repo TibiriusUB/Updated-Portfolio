@@ -3,29 +3,56 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#header {
+    width: 960px;
+}
+
 #start {
     height: 100%;
     background-color: #4aaaa5;
     color: #ffffff;
 }
 
+#navitems {
+    background-color: #ffffff;
+    color: #777777
+}
+
 #top {
-    padding: 1px;
-    border-width: 3px;
+    background-color: #ffffff;
 }
 
 #logo {
     padding: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+#main {
+    background-color: #ffffff;
+    margin-top: 10px;
+    width: 960px;
+}
+
+#pagetitle {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+}
+
 #profile {
     display: inline;
 }
+
+.nav-link {
+    background-color: #ffffff;
+    color: #777777
+}
+
 .mb-2 {
     margin-bottom: 3px
 }
 
 #footer {
     background-color: #666666;
+    border-top: 3px solid #4aaaa5;
     padding-top: 40px;
 }
