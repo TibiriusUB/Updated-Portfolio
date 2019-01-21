@@ -1,7 +1,17 @@
 body {
-    padding-top: 80px;
+    padding-top: 90px;
     font-family: Arial, Helvetica, sans-serif;
     color:#777777;
+}
+
+span {
+    color: #777777;
+    border-color: #777777;
+}
+
+button {
+    color: #777777;
+    border-color: #777777;
 }
 
 #header {
@@ -26,17 +36,19 @@ body {
 #logo {
     padding: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff
 }
 
 #main {
     background-color: #ffffff;
-    margin-top: 10px;
+    margin-top: 25px;
     width: 960px;
 }
 
 #pagetitle {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #4aaaa5;
+    border-width: 3px !important;
 }
 
 .nav-link {
