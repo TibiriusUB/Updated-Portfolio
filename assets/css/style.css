@@ -5,13 +5,13 @@ body {
 }
 
 span {
-    color: #777777;
-    border-color: #777777;
+    color: #777777 !important;
+    border-color: #777777 !important;
 }
 
 button {
-    color: #777777;
-    border-color: #777777;
+    color: #777777 !important;
+    border-color: #777777 !important;
 }
 
 #header {
@@ -31,6 +31,7 @@ button {
 
 #top {
     background-color: #ffffff;
+    border-bottom: 2px solid #cccccc !important;
 }
 
 #logo {
@@ -40,14 +41,15 @@ button {
 
 #main {
     background-color: #ffffff;
-    margin-top: 25px;
+    border: 1px solid #dddddd !important;
+    margin-top: 25px; 
     width: 960px;
 }
 
 #pagetitle {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #4aaaa5;
-    border-bottom: 3px !important;
+    border-bottom: 2px solid #cccccc !important;
 }
 
 .nav-link {
