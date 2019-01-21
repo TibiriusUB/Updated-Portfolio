@@ -34,7 +34,6 @@ button {
 }
 
 #logo {
-    padding: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #ffffff
 }
@@ -48,7 +47,7 @@ button {
 #pagetitle {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #4aaaa5;
-    border-width: 3px !important;
+    border-bottom: 3px !important;
 }
 
 .nav-link {
@@ -58,6 +57,7 @@ button {
 
 #footer {
     background-color: #666666;
-    border-top: 3px solid #4aaaa5;
-    padding-top: 40px;
+    border-top: 5px solid #4aaaa5 !important;
+    color: #ffffff;
+    font-size: 12px;
 }
