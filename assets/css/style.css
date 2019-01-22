@@ -47,6 +47,13 @@ button {
     width: 960px;
 }
 
+#projects {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    top: 70%;
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+ 
 #pagetitle {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #4aaaa5;
