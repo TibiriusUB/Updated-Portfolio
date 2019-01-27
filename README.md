@@ -9,24 +9,22 @@
 ### __Portfolio links:__
 
 ##### [Crystal Collector game:](https://tibiriusub.github.io/Crystal-Collector/)
-<a href="https://tibiriusub.github.io/Triviagame/"><img src="assets/images/Playcade.png" alt="Playcade Trivia"></a>
-
-![Crystal Collector game:](assets/images/Crystal.png =200X150)
+<a href="https://tibiriusub.github.io/Triviagame/"><img src="assets/images/Crystal.png" alt="Crystal Collector" height="180" width="240"></a>
 
 ##### [Giphy gif-Finder:](https://tibiriusub.github.io/Giphy/)
-![Giphy gif-Finder:](assets/images/Giphy.png =200X150)
+<a href="https://tibiriusub.github.io/Triviagame/"><img src="assets/images/Giphy.png" alt="Giphy gif-Finder" height="180" width="240"></a>
 
 ##### [ROCK-PAPER-SCISSORS-Online:](https://tibiriusub.github.io/RPS-Multiplayer/)
-![ROCK-PAPER-SCISSORS-Online:](assets/images/RPS.png =200X150)
+<a href="https://tibiriusub.github.io/Triviagame/"><img src="assets/images/RPS.png" alt="ROCK-PAPER-SCISSORS-Online" height="180" width="240"></a>
 
 ##### [Playcade Trivia:](https://tibiriusub.github.io/Triviagame/)
-![Playcade Trivia:](assets/images/Playcade.png =200X150)
+<a href="https://tibiriusub.github.io/Triviagame/"><img src="assets/images/Playcade.png" alt="Playcade Trivia" height="180" width="240"></a>
 
 ##### [Happy Healthy Tummies:](https://kaviz101586.github.io/MJPJ/)
-![Happy Healthy Tummies:](assets/images/HHH.png =200X150)
+<a href="https://tibiriusub.github.io/Triviagame/"><img src="assets/images/HHH.png" alt="Happy Healthy Tummies" height="180" width="240"></a>
 
 ##### [LIRI-Bot:](https://drive.google.com/file/d/1adCb48Lf58JMJvv1Cp7dMgXeEN_F4Zm2/view)
-![LIRI-Bot:](assets/images/LIRI.png =200X150)
+<a href="https://tibiriusub.github.io/Triviagame/"><img src="assets/images/LIRI.png" alt="LIRI-Bot" height="180" width="240"></a>
 
  [By all means, check out the Portfolio itself!](https://tibiriusub.github.io/Updated-Portfolio/)
 =================================================
