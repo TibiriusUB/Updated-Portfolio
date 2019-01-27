@@ -9,6 +9,8 @@
 ### __Portfolio links:__
 
 ##### [Crystal Collector game:](https://tibiriusub.github.io/Crystal-Collector/)
+<a href="https://tibiriusub.github.io/Triviagame/"><img src="assets/images/Playcade.png" alt="Playcade Trivia"></a>
+
 ![Crystal Collector game:](assets/images/Crystal.png =200X150)
 
 ##### [Giphy gif-Finder:](https://tibiriusub.github.io/Giphy/)
